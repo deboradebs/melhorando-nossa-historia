@@ -1,5 +1,5 @@
-import {aleatorio} from  ".aleatorio.js"
-import {perguntas} from ".pergunta.js"
+import {aleatorio} from  "./aleatorio.js"
+import {perguntas} from "./pergunta.js"
 const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");

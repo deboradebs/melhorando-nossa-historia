@@ -64,4 +64,4 @@ function aleatorio(lista){
     return(lista[posicao])
 }
 
-mostraPergunta();
+

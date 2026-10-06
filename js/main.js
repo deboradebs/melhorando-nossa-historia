@@ -12,7 +12,7 @@ let atual = 0;
 let perguntaAtual;
 let historiaFinal = ""
 
-botaoIniciar.addEventLisstener("click", iniciaJogo)
+botaoIniciar.addEventListener("click", iniciaJogo)
 
 function iniciaJogo(){
     atual = 0;
